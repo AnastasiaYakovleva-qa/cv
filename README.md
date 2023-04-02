@@ -1,2 +1,1 @@
-#CV
-Сайт-визитка на HTML, CSS, JS
+My Site
